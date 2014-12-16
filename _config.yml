@@ -3,7 +3,7 @@
 title:            MA-Santamaría
 locale:           es_ES
 #url:              http://ma-santamaria.github.io
-url:
+url:              http://localhost:4000
 
 
 # Jekyll configuration
@@ -28,7 +28,7 @@ kramdown:
 # Site owner
 owner:
   name: Miguel Ángel Santamaría Rogado
-  avatar: bio-photo.jpg
+  avatar: bio-photo.png
   bio: "Apasionado de la tecnología."
   email: ma.santamaria.rogado@gmail.com
   disqus-shortname: 
