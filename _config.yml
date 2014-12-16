@@ -2,7 +2,8 @@
 
 title:            Sol Negro
 locale:           es_ES
-url:              http://ma-santamaria.github.io
+#url:              http://ma-santamaria.github.io
+url:
 
 
 # Jekyll configuration
@@ -28,19 +29,19 @@ kramdown:
 owner:
   name: Miguel Ángel Santamaría Rogado
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
+  bio: "Apasionado de la tecnología."
+  email: ma.santamaria.rogado@gmail.com
   disqus-shortname: 
-  twitter: #username
+  twitter: ma_santamaria_r
   facebook: #username
   google:
-    plus: #username
+    plus: MiguelAngelSantamaríaRogado
     analytics: 
     verify: 
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #ma-santamaria
+  github: ma-santamaria
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
