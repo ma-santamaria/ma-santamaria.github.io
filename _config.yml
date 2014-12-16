@@ -2,8 +2,8 @@
 
 title:            MA-Santamaría
 locale:           es_ES
-#url:              http://ma-santamaria.github.io
-url:              http://localhost:4000
+url:              http://ma-santamaria.github.io
+#url:              http://localhost:4000
 
 
 # Jekyll configuration
