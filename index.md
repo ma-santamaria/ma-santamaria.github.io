@@ -3,7 +3,7 @@ layout: home
 excerpt: "Página personal de Miguel Ángel Santamaría Rogado."
 tags: [Jekyll, theme, responsive, blog, template]
 image:
-  feature: sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: main_banner.jpg
+  credit: Creativity103
+  creditlink: http://creativity103.com
 ---
