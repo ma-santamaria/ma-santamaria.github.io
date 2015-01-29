@@ -8,6 +8,7 @@ tags: [Android, adb, trucos]
 image:
   feature:
 date: 2015-01-29T20:37:00+01:00
+comments: true
 ---
 
 Si quieres probar tu aplicación en distintas resoluciones sin necesidad de disponer de varios dispositivos puedes ajustar la resolución de tu dispositivo mediante adb. Para ello tan solo necesitas enviar el comando *wm* al dispositivo de la siguiente forma:
