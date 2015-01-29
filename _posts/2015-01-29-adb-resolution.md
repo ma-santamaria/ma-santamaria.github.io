@@ -23,7 +23,7 @@ Y en el caso de querer simular otra densidad puedes hacerlo mediante:
 adb shell wm density <nueva_densidad>
 {% endhighlight %}
 
-Te recomiendo realizar los cambios con la pantalla apagada (bloqueada), ya que haciendolo mientras la pantalla está encendida me he encontrado con cosas curiosas como la desaparición de la barra de menús al establecer resoluciones menores que la nativa o tamaños de letra minúsculos en el caso de pasar a resoluciones mayores.
+Te recomiendo realizar los cambios con la pantalla apagada (bloqueada), ya que haciéndolo mientras la pantalla está encendida me he encontrado con cosas curiosas como la desaparición de la barra de menús al establecer resoluciones menores que la nativa o tamaños de letra minúsculos en el caso de pasar a resoluciones mayores.
 
 Por ejemplo para establecer una resolución de 600x800 y una densidad de 200 tendrías que ejecutar los siguientes comandos:
 
