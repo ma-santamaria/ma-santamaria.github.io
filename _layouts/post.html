@@ -42,6 +42,9 @@
   {% if site.owner.disqus-shortname and page.comments == true %}
     <section id="disqus_thread"></section><!-- /#disqus_thread -->
   {% endif %}
+  {% if site.owner.google.plus and page.comments == true %}
+    {% include _google_comments.html %}
+  {% endif %}
   </article>
 </div><!-- /#main -->
 
